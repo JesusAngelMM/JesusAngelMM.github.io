@@ -3,7 +3,7 @@
 
 ---
 [Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
-[Inicio](/README.md)
+[Inicio](/README)
 ---
 
 **LabTimeManager** es una aplicación diseñada para gestionar eficientemente los laboratorios en instituciones académicas y de investigación. Proporciona funcionalidades para la reserva de laboratorios, gestión de materiales, horarios, usuarios, y generación de reportes. Esta documentación ofrece una guía detallada sobre la arquitectura del proyecto, las tecnologías utilizadas, y cómo está organizado el código.

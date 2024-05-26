@@ -1,8 +1,8 @@
 # Descargas de LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
-[Inicio](/README.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
+[Inicio](/README)
 ---
 
 Bienvenido a la sección de descargas de **LabTimeManager**. Aquí puedes encontrar los enlaces para descargar la última versión del software compatible con diferentes sistemas operativos. Asegúrate de seleccionar el archivo correcto para tu sistema para garantizar una instalación y funcionamiento óptimos.

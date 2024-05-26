@@ -1,7 +1,7 @@
 # Contribuir y Reportar Errores en LabTimeManager
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
-[Inicio](/README.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
+[Inicio](/README)
 ---
 
 **LabTimeManager** es un proyecto de código abierto y siempre estamos buscando colaboradores que deseen mejorar la aplicación. Además, si encuentras algún error, te animamos a reportarlo para que podamos solucionarlo lo antes posible.
