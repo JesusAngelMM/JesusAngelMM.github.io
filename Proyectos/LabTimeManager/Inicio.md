@@ -1,6 +1,6 @@
 # LabTimeManager
 ---
-[Inicio](/README.md)
+[Inicio](/README)
 
 ---
 ## Introducción
