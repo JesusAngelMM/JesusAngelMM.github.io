@@ -30,7 +30,7 @@ Hola, soy estudiante de Ingeniería en Sistemas en el Tecnológico Nacional de M
 - **Tallerista en el TecNM**: He dirigido talleres de matemáticas, fomentando el aprendizaje interactivo y aplicado entre los estudiantes.
 
 ## Proyectos
-Para más detalles sobre mis proyectos, visita la [carpeta de proyectos](/Proyectos/proyectos.md).
+Para más detalles sobre mis proyectos, visita la [carpeta de proyectos](/Proyectos/Proyectos.md).
 
 ## Currículum
 Para saber más sobre mi trayectoria profesional y académica, puedes ver mi [currículum aquí](/Currículum/index.md).
