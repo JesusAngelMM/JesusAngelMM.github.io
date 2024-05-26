@@ -1,4 +1,4 @@
-# Inicio
+# LabTimeManager
 ---
 [Inicio](/README.md)
 
