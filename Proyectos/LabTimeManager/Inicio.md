@@ -1,5 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript></noscript>
-
 # LabTimeManager
 ---
 [Inicio](/)
@@ -65,7 +63,7 @@ Para más información sobre cómo comenzar a utilizar **LabTimeManager**, cómo
 - [Descargar e instalar](/Proyectos/LabTimeManager/Descarga.md)
 - [Documentación técnica detallada](/Proyectos/LabTimeManager/Documentacion.md)
 - [Manual de usuario](/Proyectos/LabTimeManager/Manual.md)
-- [Cómo contribuir y reportar errores](/Proyectos/LabTimeManager/ContribuiryErrores.md)
+- [Cómo contribuir y reportar errores](/Proyectos/LabTimeManager/ContribuiryErrores)
 
 ## ¿Qué esperas?
 
