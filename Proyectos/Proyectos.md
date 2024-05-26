@@ -1,7 +1,8 @@
 # Proyectos
-
+---
 [Inicio](/README)
 
+---
 Bienvenido a la sección de proyectos de mi portafolio. Aquí encontrarás una variedad de aplicaciones y sistemas que he desarrollado como parte de mi formación en Ingeniería en Sistemas y a través de mi interés personal en la tecnología y la programación.
 
 ## Descripción General

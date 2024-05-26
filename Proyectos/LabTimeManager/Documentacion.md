@@ -1,9 +1,9 @@
 
 # Documentación de LabTimeManager
-
 ---
 [Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
 [Inicio](/README)
+
 ---
 
 **LabTimeManager** es una aplicación diseñada para gestionar eficientemente los laboratorios en instituciones académicas y de investigación. Proporciona funcionalidades para la reserva de laboratorios, gestión de materiales, horarios, usuarios, y generación de reportes. Esta documentación ofrece una guía detallada sobre la arquitectura del proyecto, las tecnologías utilizadas, y cómo está organizado el código.
@@ -244,7 +244,7 @@ La interfaz de usuario está diseñada utilizando Swing. A continuación se mues
 
 ## Guía de Instalación
 
-Para instalar **LabTimeManager**, sigue los pasos detallados en la [Guía de Instalación](../Manual.md).
+Para instalar **LabTimeManager**, sigue los pasos detallados en la [Guía de Instalación](../Manual).
 
 ## Pruebas
 
@@ -256,7 +256,7 @@ Para instalar **LabTimeManager**, sigue los pasos detallados en la [Guía de Ins
 
 ---
 
-Esperamos que esta documentación te sea de ayuda para entender y trabajar con **LabTimeManager**. Si tienes alguna pregunta o necesitas más información, no dudes en contactar al equipo de desarrollo o consultar la sección de [Contribuir y Errores](../ContribuiryErrores.md).
+Esperamos que esta documentación te sea de ayuda para entender y trabajar con **LabTimeManager**. Si tienes alguna pregunta o necesitas más información, no dudes en contactar al equipo de desarrollo o consultar la sección de [Contribuir y Errores](../ContribuiryErrores).
 
 ---
 

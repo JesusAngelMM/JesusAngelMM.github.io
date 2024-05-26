@@ -1,8 +1,9 @@
 # Manual de Usuario para LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
 [Inicio](/README)
+
 ---
 
 **LabTimeManager** es una herramienta diseñada para facilitar la gestión de laboratorios en instituciones académicas y de investigación. Este manual proporciona una guía paso a paso para instalar, configurar y utilizar la aplicación.
