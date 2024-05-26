@@ -1,5 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript></noscript>
-
 # Bienvenido a Mi Portafolio
 
 Hola, soy estudiante de Ingeniería en Sistemas en el Tecnológico Nacional de México. Me apasiona la tecnología y el desarrollo de software, y aquí podrás encontrar algunos de los proyectos en los que he trabajado, así como información sobre mi formación y habilidades.
