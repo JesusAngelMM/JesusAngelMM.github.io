@@ -1,6 +1,6 @@
 # Contribuir y Reportar Errores en LabTimeManager
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
 [Inicio](/)
 
 ---

@@ -1,6 +1,6 @@
 # Proyectos
 ---
-[Inicio](/README)
+[Inicio](/)
 
 ---
 Bienvenido a la sección de proyectos de mi portafolio. Aquí encontrarás una variedad de aplicaciones y sistemas que he desarrollado como parte de mi formación en Ingeniería en Sistemas y a través de mi interés personal en la tecnología y la programación.
@@ -23,13 +23,13 @@ Cada proyecto tiene su propia carpeta dentro de esta sección, donde puedes enco
 
 A continuación, se muestran los proyectos disponibles en mi portafolio:
 
-### [LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+### [LabTimeManager](/Proyectos/LabTimeManager/Inicio)
 Una aplicación completa para gestionar horarios y recursos de laboratorios. Este proyecto incluye funcionalidades como reservas de espacios, gestión de usuarios y materiales, y generación de informes y estadísticas.
 
-### [Calculadora](/Proyectos/Calculadora/README.md)
+### [Calculadora](/Proyectos/Calculadora/README)
 Una calculadora simple diseñada para entender y aplicar principios de programación básica. Funciona tanto para cálculos estándar como científicos.
 
-### [Password Manager](/Proyectos/PasswordManager/README.md)
+### [Password Manager](/Proyectos/PasswordManager/README)
 Un gestor de contraseñas que ayuda a los usuarios a almacenar y gestionar sus contraseñas de forma segura.
 
 ## Invitación a Colaborar

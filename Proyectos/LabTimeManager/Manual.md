@@ -1,7 +1,7 @@
 # Manual de Usuario para LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
 [Inicio](/)
 
 ---
@@ -41,7 +41,7 @@
 
 ### Descarga de Archivos
 
-Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la [página de descargas](../Descarga.md).
+Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la [página de descargas](../Descarga).
 
 ### Instalación en Windows
 

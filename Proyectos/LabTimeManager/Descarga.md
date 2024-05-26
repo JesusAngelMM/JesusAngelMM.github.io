@@ -1,7 +1,7 @@
 # Descargas de LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
 [Inicio](/)
 
 ---
@@ -14,7 +14,7 @@ Bienvenido a la sección de descargas de **LabTimeManager**. Aquí puedes encont
 
 ## Cómo Descargar
 
-Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la tabla a continuación y sigue el enlace. Si necesitas instrucciones detalladas sobre cómo instalar la aplicación, visita nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual.md).
+Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la tabla a continuación y sigue el enlace. Si necesitas instrucciones detalladas sobre cómo instalar la aplicación, visita nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual).
 
 | Sistema Operativo | Archivo | Enlace de Descarga |
 |-------------------|---------|--------------------|
@@ -33,7 +33,7 @@ Antes de descargar y instalar **LabTimeManager**, asegúrate de que tu sistema c
 
 ## Instalación
 
-Una vez descargado el archivo adecuado, puedes proceder con la instalación. Para los usuarios de Windows y Linux, el archivo descargado incluirá un instalador que guiará el proceso de instalación. Para usuarios que descarguen el archivo `.jar`, asegúrate de tener Java instalado y sigue las instrucciones detalladas en nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual.md).
+Una vez descargado el archivo adecuado, puedes proceder con la instalación. Para los usuarios de Windows y Linux, el archivo descargado incluirá un instalador que guiará el proceso de instalación. Para usuarios que descarguen el archivo `.jar`, asegúrate de tener Java instalado y sigue las instrucciones detalladas en nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual).
 
 ### Instrucciones de Instalación para Windows
 
@@ -64,7 +64,7 @@ Una vez descargado el archivo adecuado, puedes proceder con la instalación. Par
 
 ## Soporte
 
-Si encuentras algún problema durante la descarga o instalación de **LabTimeManager**, no dudes en contactar nuestro soporte técnico o visitar la sección de [Contribuir y Errores](/Proyectos/LabTimeManager/ContribuiryErrores.md) para reportar cualquier incidencia.
+Si encuentras algún problema durante la descarga o instalación de **LabTimeManager**, no dudes en contactar nuestro soporte técnico o visitar la sección de [Contribuir y Errores](/Proyectos/LabTimeManager/ContribuiryErrores) para reportar cualquier incidencia.
 
 ---
 
