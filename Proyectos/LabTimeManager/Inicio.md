@@ -62,10 +62,10 @@ Este archivo proporciona una visión general del propósito y motivación del pr
 
 Para más información sobre cómo comenzar a utilizar **LabTimeManager**, cómo contribuir al proyecto o reportar errores, por favor consulta los siguientes enlaces:
 
-- [Descargar e instalar](/Proyectos/LabTimeManager/Descarga.html)
-- [Documentación técnica detallada](/Proyectos/LabTimeManager/Documentacion.html)
-- [Manual de usuario](/Proyectos/LabTimeManager/Manual.html)
-- [Cómo contribuir y reportar errores](/Proyectos/LabTimeManager/ContribuiryErrores.html)
+- [Descargar e instalar](/Proyectos/LabTimeManager/Descarga.md)
+- [Documentación técnica detallada](/Proyectos/LabTimeManager/Documentacion.md)
+- [Manual de usuario](/Proyectos/LabTimeManager/Manual.md)
+- [Cómo contribuir y reportar errores](/Proyectos/LabTimeManager/ContribuiryErrores.md)
 
 ## ¿Qué esperas?
 

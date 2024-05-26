@@ -3,7 +3,7 @@
 # Manual de Usuario para LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.html)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
 [Inicio](/)
 
 ---
