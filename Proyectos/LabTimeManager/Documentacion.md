@@ -2,7 +2,7 @@
 # Documentación de LabTimeManager
 ---
 [Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
-[Inicio](/README)
+[Inicio](/README.md)
 
 ---
 

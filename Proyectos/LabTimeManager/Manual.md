@@ -1,8 +1,8 @@
 # Manual de Usuario para LabTimeManager
 
 ---
-[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio)
-[Inicio](/README)
+[Regresar al LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
+[Inicio](/README.md)
 
 ---
 

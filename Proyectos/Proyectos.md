@@ -23,13 +23,13 @@ Cada proyecto tiene su propia carpeta dentro de esta sección, donde puedes enco
 
 A continuación, se muestran los proyectos disponibles en mi portafolio:
 
-### [LabTimeManager](/Proyectos/LabTimeManager/Inicio)
+### [LabTimeManager](/Proyectos/LabTimeManager/Inicio.md)
 Una aplicación completa para gestionar horarios y recursos de laboratorios. Este proyecto incluye funcionalidades como reservas de espacios, gestión de usuarios y materiales, y generación de informes y estadísticas.
 
-### [Calculadora](/Proyectos/Calculadora/README)
+### [Calculadora](/Proyectos/Calculadora/README.md)
 Una calculadora simple diseñada para entender y aplicar principios de programación básica. Funciona tanto para cálculos estándar como científicos.
 
-### [Password Manager](/Proyectos/PasswordManager/README)
+### [Password Manager](/Proyectos/PasswordManager/README.md)
 Un gestor de contraseñas que ayuda a los usuarios a almacenar y gestionar sus contraseñas de forma segura.
 
 ## Invitación a Colaborar
