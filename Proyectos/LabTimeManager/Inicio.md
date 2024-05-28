@@ -4,8 +4,9 @@
 
 ---
 
-![Portada](/Imagenes/Portada.png "Portada del LabTimeManager")
+![Portada](/Imagenes/Portada.png)
 
+---
 
 ## Introducción
 
