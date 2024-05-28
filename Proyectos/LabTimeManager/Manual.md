@@ -174,6 +174,14 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 
 ![Generación de Reportes](/Imagenes/Manual8.png)
 
+### Generación de Gráficas
+
+1. Navega a la sección de ver estadísticas.
+2. Selecciona el tipo de gráfica que deseas generar (uso de laboratorios, uso de materiales, etc.).
+4. Espera a que se cargue.
+
+![Generación de Reportes](/Imagenes/Manual9.png)
+
 ## Contribuir y Errores
 
 Si deseas contribuir al desarrollo de **LabTimeManager** o has encontrado algún error, por favor visita la sección de [Contribuir y Errores](../ContribuiryErrores.md) para obtener más información sobre cómo puedes ayudar.

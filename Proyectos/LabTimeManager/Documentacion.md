@@ -248,6 +248,7 @@ La interfaz de usuario está diseñada utilizando Swing. A continuación se mues
  las operaciones administrativas y permite gestionar usuarios, laboratorios, materiales y horarios.
 - **Diálogo de Reservas**: Permite a los usuarios hacer reservas de laboratorios y materiales.
 - **Diálogo de Modificación**: Permite a los administradores modificar información de usuarios, laboratorios, materiales y horarios.
+- **Diálogo de Reportes**: Permite a los administradores modificar exportar las reservaciones de los usuarios, así como ver gráficas y estadísticas de los múltiples datos.
 - **Diálogo de Configuración**: Permite modificar la configuración de la base de datos.
 
 ## Guía de Instalación
