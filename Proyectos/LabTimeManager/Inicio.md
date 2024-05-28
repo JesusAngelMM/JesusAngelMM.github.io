@@ -3,6 +3,10 @@
 [Inicio](/)
 
 ---
+
+![Portada](/Imagenes/Portada.png "Portada del LabTimeManager")
+
+
 ## Introducción
 
 **LabTimeManager** es una solución integral para la gestión de horarios y recursos de laboratorios en instituciones educativas y de investigación. El sistema permite a los usuarios reservar laboratorios, gestionar materiales y obtener informes detallados sobre el uso de estos recursos. Está diseñado para optimizar la utilización de laboratorios y facilitar la planificación y administración.
