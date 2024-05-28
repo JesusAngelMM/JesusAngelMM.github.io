@@ -4,6 +4,9 @@
 [Inicio](/)
 
 ---
+![Ver](/Imagenes/documentacion1.png)
+
+---
 
 **LabTimeManager** es una aplicación diseñada para gestionar eficientemente los laboratorios en instituciones académicas y de investigación. Proporciona funcionalidades para la reserva de laboratorios, gestión de materiales, horarios, usuarios, y generación de reportes. Esta documentación ofrece una guía detallada sobre la arquitectura del proyecto, las tecnologías utilizadas, y cómo está organizado el código.
 
@@ -72,6 +75,10 @@ erDiagram
     SCHEDULE ||--o{ RESERVATION : "defines"
     LABORATORY ||--o{ MATERIAL : "stores"
 ```
+
+
+[![](https://mermaid.ink/img/pako:eNqFU1tuwjAQvErk73KB_KUlqAhaqgCVKkVC23gBCz9SP1oh4O51AgJSm-KPxJ4d72N2vSOVokhSgrrPYKVBlDLxaz7Ni2R33DeLSZswunAGdfI2uuDGaiZXSYNLEBgYajDmR2kaGFAA4wGqFQ99UKxBW4HSHk2H42-cPU6KbDYpPiKJcviM5RnNkasKLFOy66SCGipmtwHdbmvsJDJ9es7783EeScNUa6SOYycXChbbzwWyTKD378tcNNs_BpT0Cj5FLXLfovdsNpy8RgJr9B35bsvqxL7u42AUlS0Cn8sYhJLWTtfKhKr6aqwz99V7yWZ5MczGkSKE10gz4Pc72Vz4ciBtp2GRonzQqwHf73s9tetImSYlEbBBU5JgzG7Qmay4o5cb53m4wae4ZPK_AGdJGraxSjdk8kAEav9qqH-trVYlsWv0KpDWKehN4_HgeeCsmm5lRVKrHT4QrdxqTdIlcONPrm5m7_TaT-jhF61GNDc?type=png)](https://mermaid.live/edit#pako:eNqFU1tuwjAQvErk73KB_KUlqAhaqgCVKkVC23gBCz9SP1oh4O51AgJSm-KPxJ4d72N2vSOVokhSgrrPYKVBlDLxaz7Ni2R33DeLSZswunAGdfI2uuDGaiZXSYNLEBgYajDmR2kaGFAA4wGqFQ99UKxBW4HSHk2H42-cPU6KbDYpPiKJcviM5RnNkasKLFOy66SCGipmtwHdbmvsJDJ9es7783EeScNUa6SOYycXChbbzwWyTKD378tcNNs_BpT0Cj5FLXLfovdsNpy8RgJr9B35bsvqxL7u42AUlS0Cn8sYhJLWTtfKhKr6aqwz99V7yWZ5MczGkSKE10gz4Pc72Vz4ciBtp2GRonzQqwHf73s9tetImSYlEbBBU5JgzG7Qmay4o5cb53m4wae4ZPK_AGdJGraxSjdk8kAEav9qqH-trVYlsWv0KpDWKehN4_HgeeCsmm5lRVKrHT4QrdxqTdIlcONPrm5m7_TaT-jhF61GNDc)
+
 
 ## Tecnologías Utilizadas
 
@@ -207,6 +214,8 @@ private void loadProperties() {
 ```
 
 ## Detalles de las Clases y Métodos
+
+![Ver](/Imagenes/documentacion1.png)
 
 ### LoginWindow
 

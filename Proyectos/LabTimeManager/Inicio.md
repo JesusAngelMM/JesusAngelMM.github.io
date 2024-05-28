@@ -83,9 +83,12 @@ Gracias por tu interés en **LabTimeManager**. Estamos emocionados de ver cómo 
 ## Contacto y Soporte
 
 Si necesitas ayuda adicional o tienes preguntas sobre cómo contribuir o reportar errores, no dudes en contactar a nuestro equipo de soporte:
+- **Autores**
+- Jesús Ángel Martínez Mendoza
+- Jennifer Diego García
 
 - **Correo Electrónico**: 
-- soporte@labtimemanager.comjesusangelmartinezmendoza0702@gmail.com
+- jesusangelmartinezmendoza0702@gmail.com
 - jenniferdiegogarcia3@gmail.com
 - **GitHub**: [Repositorio en GitHub](https://github.com/JesusAngelMM/ITO_JAVA_LABTIMEMANAGER.git)
 

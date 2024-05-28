@@ -5,6 +5,9 @@
 [Inicio](/)
 
 ---
+![Ver](/Imagenes/documentacion3.png)
+
+---
 
 **LabTimeManager** es una herramienta diseñada para facilitar la gestión de laboratorios en instituciones académicas y de investigación. Este manual proporciona una guía paso a paso para instalar, configurar y utilizar la aplicación.
 
@@ -112,13 +115,13 @@ db.password=your_password
 2. Ingresa tu nombre de usuario y contraseña.
 3. Haz clic en el botón "Iniciar Sesión".
 
-![Pantalla de Inicio de Sesión](#captura-inicio-sesion)
+![Pantalla de Inicio de Sesión](/Imagenes/documentacion1)
 
 ### Interfaz de Usuario
 
 Después de iniciar sesión, serás redirigido al panel de control correspondiente a tu rol (usuario o administrador).
 
-![Interfaz de Usuario](#captura-interfaz-usuario)
+![Interfaz de Usuario](/Imagenes/Manual2.png)
 
 ### Reservar Laboratorios
 
@@ -128,7 +131,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 4. Ingresa el propósito de la reserva.
 5. Haz clic en "Reservar".
 
-![Reserva de Laboratorios](#captura-reserva)
+![Reserva de Laboratorios](/Imagenes/Manual3.png)
 
 ### Gestión de Usuarios (Administrador)
 
@@ -136,7 +139,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 2. Puedes agregar, editar o eliminar usuarios.
 3. Para agregar un usuario, haz clic en "Agregar Usuario", completa el formulario y haz clic en "Guardar".
 
-![Gestión de Usuarios](#captura-gestion-usuarios)
+![Gestión de Usuarios](/Imagenes/Manual4.png)
 
 ### Gestión de Laboratorios (Administrador)
 
@@ -144,7 +147,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 2. Puedes agregar, editar o eliminar laboratorios.
 3. Para agregar un laboratorio, haz clic en "Agregar Laboratorio", completa el formulario y haz clic en "Guardar".
 
-![Gestión de Laboratorios](#captura-gestion-laboratorios)
+![Gestión de Laboratorios](/Imagenes/Manual5.png)
 
 ### Gestión de Materiales (Administrador)
 
@@ -152,7 +155,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 2. Puedes agregar, editar o eliminar materiales.
 3. Para agregar un material, haz clic en "Agregar Material", completa el formulario y haz clic en "Guardar".
 
-![Gestión de Materiales](#captura-gestion-materiales)
+![Gestión de Laboratorios](/Imagenes/Manual6.png)
 
 ### Gestión de Horarios (Administrador)
 
@@ -160,7 +163,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 2. Puedes agregar, editar o eliminar horarios.
 3. Para agregar un horario, haz clic en "Agregar Horario", completa el formulario y haz clic en "Guardar".
 
-![Gestión de Horarios](#captura-gestion-horarios)
+![Gestión de Horarios](/Imagenes/Manual7.png)
 
 ### Generación de Reportes
 
@@ -169,7 +172,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 3. Ingresa los parámetros necesarios (fechas, usuarios, etc.).
 4. Haz clic en "Generar Reporte".
 
-![Generación de Reportes](#captura-reportes)
+![Generación de Reportes](/Imagenes/Manual8.png)
 
 ## Contribuir y Errores
 
