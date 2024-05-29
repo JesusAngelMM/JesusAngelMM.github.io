@@ -117,13 +117,13 @@ db.password=your_password
 2. Ingresa tu nombre de usuario y contraseña.
 3. Haz clic en el botón "Iniciar Sesión".
 
-![Pantalla de Inicio de Sesión](/Imagenes/documentacion1)
+![Interfaz de Usuario](/Imagenes/Manual2.png)
 
 ### Interfaz de Usuario
 
 Después de iniciar sesión, serás redirigido al panel de control correspondiente a tu rol (usuario o administrador).
 
-![Interfaz de Usuario](/Imagenes/Manual2.png)
+![Interfaz de Usuario](/Imagenes/Manual1.png)
 
 ### Reservar Laboratorios
 
