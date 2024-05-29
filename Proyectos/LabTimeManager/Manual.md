@@ -20,6 +20,7 @@
    - [Instalación en Linux](#instalación-en-linux)
    - [Instalación del Archivo .jar](#instalación-del-archivo-jar)
 2. [Configuración Inicial](#configuración-inicial)
+   - [Configuración de la base de datos](#Configuración-de-la-base-de-datos)
    - [Configuración del Archivo `config.properties`](#configuración-del-archivo-configproperties)
    - [Conexión a MySQL en la nube](#conexión-a-mysql-en-la-nube)
 3. [Uso del Programa](#uso-del-programa)
@@ -85,6 +86,78 @@ Este es en sí un ejecutable, por lo que se ejecuta al instante, no olvides ante
 
 ## Configuración Inicial
 
+### Configuración de la base de datos
+
+El script para crear la base de datos es la siguiente
+
+```sql
+-- Creación de la base de datos
+CREATE DATABASE IF NOT EXISTS LabTimeManager;
+USE LabTimeManager;
+
+-- Creación de la tabla 'USER'
+CREATE TABLE IF NOT EXISTS `USER` (
+    id_user INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    role VARCHAR(50) NOT NULL,
+    department VARCHAR(100)
+);
+
+-- Creación de la tabla 'LABORATORY'
+CREATE TABLE IF NOT EXISTS `LABORATORY` (
+    id_lab INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    location VARCHAR(255) NOT NULL,
+    capacity INT NOT NULL,
+    type VARCHAR(50) NOT NULL
+);
+
+-- Creación de la tabla 'SCHEDULE'
+CREATE TABLE IF NOT EXISTS `SCHEDULE` (
+    id_schedule INT AUTO_INCREMENT PRIMARY KEY,
+    date DATE NOT NULL,
+    start_time TIME NOT NULL,
+    end_time TIME NOT NULL
+);
+
+-- Creación de la tabla 'RESERVATION'
+CREATE TABLE IF NOT EXISTS `RESERVATION` (
+    id_reservation INT AUTO_INCREMENT PRIMARY KEY,
+    id_user INT NOT NULL,
+    id_lab INT NOT NULL,
+    id_schedule INT NOT NULL,
+    purpose VARCHAR(255) NOT NULL,
+    status VARCHAR(50) NOT NULL,
+    type VARCHAR(50) NOT NULL,
+    FOREIGN KEY (id_user) REFERENCES USER(id_user),
+    FOREIGN KEY (id_lab) REFERENCES LABORATORY(id_lab),
+    FOREIGN KEY (id_schedule) REFERENCES SCHEDULE(id_schedule)
+);
+
+-- Creación de la tabla 'MATERIAL'
+CREATE TABLE IF NOT EXISTS `MATERIAL` (
+    id_material INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL,
+    id_lab INT NOT NULL,
+    FOREIGN KEY (id_lab) REFERENCES LABORATORY(id_lab)
+);
+
+-- Creación de la tabla 'RESERVATION_MATERIAL'
+CREATE TABLE IF NOT EXISTS `RESERVATION_MATERIAL` (
+    id_reservation INT NOT NULL,
+    id_material INT NOT NULL,
+    quantity INT NOT NULL,
+    FOREIGN KEY (id_reservation) REFERENCES RESERVATION(id_reservation),
+    FOREIGN KEY (id_material) REFERENCES MATERIAL(id_material),
+    PRIMARY KEY (id_reservation, id_material)
+);
+
+INSERT INTO MATERIAL (name, quantity, id_lab) VALUES ('Material Genérico', 9999, 1);  -- Asegúrate de que el id_lab 1 existe
+```
+
 ### Configuración del Archivo `config.properties`
 
 El archivo `config.properties` contiene los detalles de conexión a la base de datos. Debes configurar este archivo antes de iniciar la aplicación.
@@ -96,6 +169,10 @@ db.url=jdbc:mysql://localhost:3306/labtimemanager?useTimeZone=true&serverTimezon
 db.user=root
 db.password=password
 ```
+
+Sin embargo en este caso, es mejor configurarlo desde la GUI haz click en `conexión` e ingresa la contraseña predeterminada (solicitalá por correo al desarrollador jesusangelmartinezmendoza0702@gmail.com)
+
+![Ejecución del archivo .jar](/Imagenes/Manual10.png)
 
 ### Conexión a MySQL en la nube
 
@@ -186,7 +263,7 @@ Después de iniciar sesión, serás redirigido al panel de control correspondien
 
 ## Contribuir y Errores
 
-Si deseas contribuir al desarrollo de **LabTimeManager** o has encontrado algún error, por favor visita la sección de [Contribuir y Errores](../ContribuiryErrores.md) para obtener más información sobre cómo puedes ayudar.
+Si deseas contribuir al desarrollo de **LabTimeManager** o has encontrado algún error, por favor visita la sección de [Contribuir y Errores](/ContribuiryErrores) para obtener más información sobre cómo puedes ayudar.
 
 ---
 
