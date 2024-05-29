@@ -79,7 +79,7 @@ Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu si
    java -jar LabTimeManager.jar
    ```
 
-![Ejecución del archivo .jar](/Imagenes/insJ.jpg)
+![Ejecución del archivo .jar](/Imagenes/insJ.png)
 
 Este es en sí un ejecutable, por lo que se ejecuta al instante, no olvides antes crear tu base de datos, esto se explica en el apartado de Documentación.
 
