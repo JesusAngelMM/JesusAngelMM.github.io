@@ -8,6 +8,14 @@
 ![Ver](/Imagenes/documentacion3.png)
 
 ---
+Autores: 
+- Jesús Ángel Martínez Mendoza
+- Jennifer Diego García
+
+
+Repositorio: [Repositorio GitHub de LabTimeManager](https://github.com/JesusAngelMM/ITO_JAVA_LABTIMEMANAGER.git)
+
+---
 
 **LabTimeManager** es una herramienta diseñada para facilitar la gestión de laboratorios en instituciones académicas y de investigación. Este manual proporciona una guía paso a paso para instalar, configurar y utilizar la aplicación.
 
@@ -88,7 +96,7 @@ Este es en sí un ejecutable, por lo que se ejecuta al instante, no olvides ante
 
 ### Configuración de la base de datos
 
-El script para crear la base de datos es la siguiente
+El script para crear la base de datos en MySQL es la siguiente, recuerda que las tablas forsozamente deben estar escrita en Mayúsculas.
 
 ```sql
 -- Creación de la base de datos
