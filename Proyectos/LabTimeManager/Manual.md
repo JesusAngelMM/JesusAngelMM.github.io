@@ -44,7 +44,7 @@
 
 ### Descarga de Archivos
 
-Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la [página de descargas](../Descarga).
+Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la [página de descargas](/Descarga).
 
 ### Instalación en Windows
 
@@ -52,7 +52,7 @@ Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu si
 2. Ejecuta el archivo descargado.
 3. Sigue las instrucciones del instalador para completar la instalación.
 
-![Instalación en Windows](#captura-windows)
+![Instalación en Windows](/Imagenes/insw1.jpg)
 
 ### Instalación en Linux
 
@@ -60,13 +60,13 @@ Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu si
 2. Abre una terminal y navega hasta la ubicación del archivo descargado.
 3. Ejecuta el siguiente comando para instalar el paquete:
 
+![Instalación en Linux](/Imagenes/insL1.jpg)
+
    ```bash
-   sudo dpkg -i nombre_del_archivo.deb
+   sudo dpkg -i LabTimeManager.deb
    ```
 
-4. Completa la instalación siguiendo las instrucciones.
-
-![Instalación en Linux](#captura-linux)
+4. O puedes dar doble click y completar la instalación siguiendo las instrucciones.
 
 ### Instalación del Archivo .jar
 
@@ -76,10 +76,12 @@ Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu si
 4. Ejecuta el siguiente comando para iniciar la aplicación:
 
    ```bash
-   java -jar nombre_del_archivo.jar
+   java -jar LabTimeManager.jar
    ```
 
-![Ejecución del archivo .jar](#captura-jar)
+![Ejecución del archivo .jar](/Imagenes/insJ.jpg)
+
+Este es en sí un ejecutable, por lo que se ejecuta al instante, no olvides antes crear tu base de datos, esto se explica en el apartado de Documentación.
 
 ## Configuración Inicial
 
