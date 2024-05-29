@@ -14,13 +14,13 @@ Bienvenido a la sección de descargas de **LabTimeManager**. Aquí puedes encont
 
 ## Cómo Descargar
 
-Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la tabla a continuación y sigue el enlace. Si necesitas instrucciones detalladas sobre cómo instalar la aplicación, visita nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual).
+Para descargar **LabTimeManager**, selecciona el archivo correspondiente a tu sistema operativo de la tabla a continuación, espera unos segundos y sigue el enlace. Si necesitas instrucciones detalladas sobre cómo instalar la aplicación, visita nuestra [guía de instalación](/Proyectos/LabTimeManager/Manual).
 
 | Sistema Operativo | Archivo | Enlace de Descarga |
 |-------------------|---------|--------------------|
-| Windows           | `.exe`  | [Descargar para Windows](#) |
-| Linux             | `.deb`  | [Descargar para Linux](#) |
-| Java              | `.jar`  | [Descargar .JAR](#) |
+| Windows           | `.exe`  | [Descargar para Windows](https://drive.usercontent.google.com/uc?id=10zVygfGIr0MTmcrZeBNF8w9OwoLAJIYr&export=download) |
+| Linux             | `.deb`  | [Descargar para Linux](https://drive.usercontent.google.com/uc?id=1mX6ggANmQKix3XvGBSyCFuA8rkFbrJIJ&export=download) |
+| Java              | `.jar`  | [Descargar .JAR](https://drive.usercontent.google.com/uc?id=1vYIDSbpP8g2oM2FyIFZsWU0tx9l93lNu&export=download) |
 
 ## Requisitos del Sistema
 
