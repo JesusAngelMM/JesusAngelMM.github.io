@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css" integrity="sha384-AfghSM7D5reI2w5afveGRfWZGpns6soXtrZ7H4VLjpCBzETKqlsCHeV1HGKJwHVG" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" integrity="sha384-gh2Eq3St/Q6MfhoaxUQV8e0qJLkp1B1QGOsND4T+blW2dhFzJ57yyjG3/GAUN8Hp" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" integrity="sha384-mll67QQWKoQZ2vka3cS+XysF00R0sIdNo5ZLs5UXlgISaUHSKPneYJXJfMEEXBDr" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
+
 # Apuntes Métodos Numéricos
 
 ## 1.1 Importancia de los métodos numéricos
