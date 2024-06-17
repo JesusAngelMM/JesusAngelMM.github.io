@@ -32,6 +32,10 @@ Hola, soy estudiante de Ingeniería en Sistemas en el Tecnológico Nacional de M
 ## Proyectos
 Para más detalles sobre mis proyectos, visita la [carpeta de proyectos](/Proyectos/Proyectos).
 
+## Apuntes
+Si eres estudiante de Tic's tal vez los siguientes apuntes te puedan ayudar [Apuntes](/Apuntes/Apuntes.md)
+
+
 ## Currículum
 Para saber más sobre mi trayectoria profesional y académica, puedes ver mi [currículum aquí](/Currículum/index).
 
